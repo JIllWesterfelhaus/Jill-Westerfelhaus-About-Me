@@ -14,3 +14,9 @@ body {background-color: rosybrown;}
 .image {
   margin-bottom: 40px;
 }
+
+.col-md-3 {
+
+  background-color: seashell;
+  margin-top: 30px;
+}
