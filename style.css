@@ -1,6 +1,6 @@
-@media screen and (max-width: 990px) {
-  p { 
-    vertical-align: bottom;  
+@media screen and (max-width: 768px) {
+  body { 
+    justify-content: center;  
 
   }
 }
@@ -16,7 +16,11 @@ body {background-color: rosybrown;}
 }
 
 .col-md-3 {
-
   background-color: seashell;
-  margin-top: 30px;
+  width: 400px;
 }
+
+.container {
+  width: 600px;
+}
+
