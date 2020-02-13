@@ -1,2 +1,2 @@
 # Jill-Westerfelhaus-About-Me
-Index, portfolio and contact page for homework, NU Bootcamp. 
+Index, portfolio and contact page for Responsive Portfolio assignment, NU Bootcamp. 
