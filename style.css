@@ -27,7 +27,10 @@ body {background-color: rosybrown;}
   width: 600px;
 }
 
- h1 {background-color: seashell;
+ h1 {
+   display: inline;
+   background-color: seashell;
+   padding: 5px;
   
 }
 
