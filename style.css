@@ -13,10 +13,10 @@ body {background-color: rgb(231, 185, 185);}
 
 .col-md-4 {
   background-color: seashell;
-  width: 400px;
 }
 
 .title {
+  background-color: seashell;
   margin-bottom: 20px;
   padding-left: 40px;
 }
