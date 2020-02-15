@@ -6,8 +6,8 @@
 }
 
 @media screen and (max-width: 462px) {
-  .contact { 
-    margin: auto;
+  .contact {
+    margin: 0px; 
   }
 }
 
