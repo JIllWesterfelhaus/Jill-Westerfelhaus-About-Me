@@ -26,16 +26,9 @@ body {background-color: rgb(231, 185, 185);}
    background-color: seashell;
    padding: 5px;
 }
-/* 
-@media screen and (max-width: 770px) {
-  .container { 
-    justify-content: center;  
-    margin-left: 100px;
-  }
-}
+
 
 @media screen and (max-width: 462px) {
-  .contact {
-    margin: 0px; 
+  h1: {column-span: :active; 
   }
-} */
+}
