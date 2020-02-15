@@ -5,6 +5,12 @@
   }
 }
 
+@media screen and (max-width: 462px) {
+  .contact { 
+    margin: auto;
+  }
+}
+
 
   body {background-color: rgb(231, 185, 185);}
 
