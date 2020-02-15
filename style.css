@@ -1,18 +1,4 @@
-@media screen and (max-width: 770px) {
-  body { 
-    justify-content: center;  
-    margin-left: 100px;
-  }
-}
-
-@media screen and (max-width: 462px) {
-  .contact {
-    margin: 0px; 
-  }
-}
-
-
-  body {background-color: rgb(231, 185, 185);}
+body {background-color: rgb(231, 185, 185);}
 
 .contact {
     margin: 65px; 
@@ -30,15 +16,26 @@
   width: 400px;
 }
 
-.container {
-  width: 600px;
+.title {
+  margin-bottom: 20px;
+  padding-left: 40px;
 }
 
  h1, h2 {
-   display: inline;
+   display: block;
    background-color: seashell;
    padding: 5px;
-  
+}
+/* 
+@media screen and (max-width: 770px) {
+  .container { 
+    justify-content: center;  
+    margin-left: 100px;
+  }
 }
 
-
+@media screen and (max-width: 462px) {
+  .contact {
+    margin: 0px; 
+  }
+} */
