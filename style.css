@@ -28,6 +28,7 @@ body {background-color: rgb(231, 185, 185);}
 }
 
 
+
 @media screen and (max-width: 462px) {
   h1: {column-span: :active; 
   }
