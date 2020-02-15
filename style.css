@@ -1,13 +1,13 @@
 @media screen and (max-width: 770px) {
   body { 
     justify-content: center;  
-    margin-left: 100px;}
-  
-  .contact {text-align: center; display: inline-block;}
+    margin-left: 100px;
   
   }
 
-body {background-color: rgb(231, 185, 185);}
+    
+
+  body {background-color: rgb(231, 185, 185);}
 
 .contact {
     margin: 65px; 
