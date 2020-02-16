@@ -5,7 +5,7 @@ This is an assignment from Northwestern University's Coding Bootcamp.
 
 ## Motivation
 
-This is to demonstrate the creation and application of web applications that will render well on a variety of devices, windows and screen sizes.
+This is to demonstrate web applications that will render well on a variety of devices, windows and screen sizes.
 
 ## Build Status
 
