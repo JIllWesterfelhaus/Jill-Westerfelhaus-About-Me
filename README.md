@@ -1,6 +1,6 @@
-# Jill-Westerfelhaus-About-Me
 
-## Responsive Portfolio
+
+# Responsive Portfolio
 
 This is an assignment from Northwestern University's Coding Bootcamp. 
 
